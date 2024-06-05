@@ -1,4 +1,5 @@
-    # Primeiro modelo DDS-1-19
-    Primeiros passos JavaScrip:smiley:
+ # Primeiro modelo DDS-1-19
 
-    Trablhando com variaveis, laços de repetição e funções!g
+Primeiros passos JavaScrip :smiley:
+
+Trablhando com variaveis, laços de repetição e funções!
