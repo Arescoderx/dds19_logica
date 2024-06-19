@@ -11,6 +11,13 @@
     <script>
         //Crie um programa que calcule o fatorial de um número informado pelo usuário.
         
+        let n = parseInt(window.prompt('Informe um numero para descobrir seu fatorial: '))
+        let resultado = 1
+        for (let i = n; i > 1; i--) {
+          resultado *= i
+        }
+
+        window.alert('O fatorial do seu numero é: '+resultado)
     </script>
 </body>
 </html>
